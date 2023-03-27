@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "20c0ad9b5a0358ca4f574bfe4b01e2ab",
 # 模板消息id
-"template_id": "RDWQu1SBWh7IKpmL0YNPeuTC7syfxOoqaBujj4wCNH8",
+"template_id": "5iKtczH_tNWB-4tUwq7Oi2QazMpYbjVOYsdZcu-K2jk",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oCmYX6LMUnf8trkoLEF3Sr6Oywu0"],
 
@@ -17,11 +17,11 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "昆明",
 # 生日1
-"birthday1": {"name": "刘茜", "birthday": "2023-08-26"},
+"birthday1": {"name": "耿婉晴", "birthday": "2023-08-26"},
 # 生日2
 "birthday2": {"name": "xx", "birthday": "2023-01-17"},
 # 在一起的日子，格式同上
-"love_date": "2022-04-10",
+"love_date": "2023-03-10",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "愿我是你明目张胆的偏爱和众所周知的喜欢。",
 # 金句英文
